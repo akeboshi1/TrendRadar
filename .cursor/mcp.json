@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trendradar": {
+      "url": "http://localhost:3333/mcp",
+      "description": "TrendRadar 财经热点分析"
+    }
+  }
+}
